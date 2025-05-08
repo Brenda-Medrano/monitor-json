@@ -1,4 +1,5 @@
 {
+    "registros": [],
     "12345": {
         "registros": [
             {
@@ -115,6 +116,17 @@
                 "pulse": 86,
                 "glucose": 93.3,
                 "comment": "Presi\u00f3n alta detectada (hipertensi\u00f3n)"
+            },
+            {
+                "record_id": 2,
+                "ci": "123456",
+                "patient_name": "Amira Lopez",
+                "timestamp": "2025-05-08 12:10:53",
+                "systolic": 101,
+                "diastolic": 87,
+                "pulse": 78,
+                "glucose": 172.6,
+                "comment": "Prehipertensi\u00f3n detectada y Hiperglucemia detectada (posible diabetes)"
             }
         ]
     }
