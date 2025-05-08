@@ -149,6 +149,17 @@
                 "pulse": 80,
                 "glucose": 185.8,
                 "comment": "Prehipertensi\u00f3n detectada y Hiperglucemia detectada (posible diabetes)"
+            },
+            {
+                "record_id": 5,
+                "ci": "7658902",
+                "patient_name": "Dayana Maque",
+                "timestamp": "2025-05-08 13:21:05",
+                "systolic": 119,
+                "diastolic": 69,
+                "pulse": 80,
+                "glucose": 128.1,
+                "comment": "Hiperglucemia detectada (posible diabetes)"
             }
         ]
     }
