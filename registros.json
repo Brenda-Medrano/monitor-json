@@ -160,6 +160,17 @@
                 "pulse": 80,
                 "glucose": 128.1,
                 "comment": "Hiperglucemia detectada (posible diabetes)"
+            },
+            {
+                "record_id": 6,
+                "ci": "865489",
+                "patient_name": "Isabel Hidalgo",
+                "timestamp": "2025-05-08 13:26:12",
+                "systolic": 103,
+                "diastolic": 100,
+                "pulse": 68,
+                "glucose": 181.8,
+                "comment": "Presi\u00f3n alta detectada (hipertensi\u00f3n) y Hiperglucemia detectada (posible diabetes)"
             }
         ]
     }
