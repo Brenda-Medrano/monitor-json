@@ -171,6 +171,17 @@
                 "pulse": 68,
                 "glucose": 181.8,
                 "comment": "Presi\u00f3n alta detectada (hipertensi\u00f3n) y Hiperglucemia detectada (posible diabetes)"
+            },
+            {
+                "record_id": 7,
+                "ci": "7463745",
+                "patient_name": "Matias Candia",
+                "timestamp": "2025-05-08 13:56:21",
+                "systolic": 142,
+                "diastolic": 103,
+                "pulse": 69,
+                "glucose": 137.8,
+                "comment": "Presi\u00f3n alta detectada (hipertensi\u00f3n) y Hiperglucemia detectada (posible diabetes)"
             }
         ]
     }
