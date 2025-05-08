@@ -138,6 +138,17 @@
                 "pulse": 98,
                 "glucose": 131.3,
                 "comment": "Presi\u00f3n alta detectada (hipertensi\u00f3n) y Hiperglucemia detectada (posible diabetes)"
+            },
+            {
+                "record_id": 4,
+                "ci": "15902032",
+                "patient_name": "Ian Escobar",
+                "timestamp": "2025-05-08 12:46:56",
+                "systolic": 128,
+                "diastolic": 65,
+                "pulse": 80,
+                "glucose": 185.8,
+                "comment": "Prehipertensi\u00f3n detectada y Hiperglucemia detectada (posible diabetes)"
             }
         ]
     }
