@@ -182,6 +182,17 @@
                 "pulse": 69,
                 "glucose": 137.8,
                 "comment": "Presi\u00f3n alta detectada (hipertensi\u00f3n) y Hiperglucemia detectada (posible diabetes)"
+            },
+            {
+                "record_id": 8,
+                "ci": "123456",
+                "patient_name": "Yozelin Castellon",
+                "timestamp": "2025-05-08 13:59:50",
+                "systolic": 123,
+                "diastolic": 62,
+                "pulse": 79,
+                "glucose": 154.3,
+                "comment": "Prehipertensi\u00f3n detectada y Hiperglucemia detectada (posible diabetes)"
             }
         ]
     }
