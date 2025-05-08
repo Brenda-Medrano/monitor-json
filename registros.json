@@ -193,6 +193,17 @@
                 "pulse": 79,
                 "glucose": 154.3,
                 "comment": "Prehipertensi\u00f3n detectada y Hiperglucemia detectada (posible diabetes)"
+            },
+            {
+                "record_id": 9,
+                "ci": "765423",
+                "patient_name": "Norma Prada",
+                "timestamp": "2025-05-08 14:31:06",
+                "systolic": 154,
+                "diastolic": 82,
+                "pulse": 71,
+                "glucose": 78.5,
+                "comment": "Presi\u00f3n alta detectada (hipertensi\u00f3n)"
             }
         ]
     }
