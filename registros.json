@@ -127,6 +127,17 @@
                 "pulse": 78,
                 "glucose": 172.6,
                 "comment": "Prehipertensi\u00f3n detectada y Hiperglucemia detectada (posible diabetes)"
+            },
+            {
+                "record_id": 3,
+                "ci": "6515397",
+                "patient_name": "Lindsay Arnez",
+                "timestamp": "2025-05-08 12:23:13",
+                "systolic": 151,
+                "diastolic": 66,
+                "pulse": 98,
+                "glucose": 131.3,
+                "comment": "Presi\u00f3n alta detectada (hipertensi\u00f3n) y Hiperglucemia detectada (posible diabetes)"
             }
         ]
     }
