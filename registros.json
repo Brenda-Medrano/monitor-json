@@ -1,0 +1,107 @@
+{
+    "registros": [],
+    "12345": {
+        "registros": [
+            {
+                "record_id": 1,
+                "ci": "123344",
+                "patient_name": "Yessica Rado",
+                "timestamp": "2025-05-06 13:01:20",
+                "systolic": 117,
+                "diastolic": 63,
+                "pulse": 89,
+                "glucose": 197.3,
+                "comment": "Hiperglucemia detectada (posible diabetes)"
+            }
+        ]
+    },
+    "123456": {
+        "registros": [
+            {
+                "record_id": 1,
+                "ci": "123456",
+                "patient_name": "Hector Monta\u00f1o",
+                "timestamp": "2025-05-06 14:29:28",
+                "systolic": 156,
+                "diastolic": 66,
+                "pulse": 68,
+                "glucose": 116.4,
+                "comment": "Presi\u00f3n alta detectada (hipertensi\u00f3n) y Hiperglucemia detectada (prediabetes)"
+            }
+        ]
+    },
+    "98765": {
+        "registros": [
+            {
+                "record_id": 1,
+                "ci": "987654",
+                "patient_name": "Paris Prada",
+                "timestamp": "2025-05-06 14:35:02",
+                "systolic": 110,
+                "diastolic": 96,
+                "pulse": 96,
+                "glucose": 147.5,
+                "comment": "Presi\u00f3n alta detectada (hipertensi\u00f3n) y Hiperglucemia detectada (posible diabetes)"
+            },
+            {
+                "record_id": 2,
+                "ci": "6589954",
+                "patient_name": "Malena Nu\u00f1ez",
+                "timestamp": "2025-05-06 14:37:55",
+                "systolic": 171,
+                "diastolic": 67,
+                "pulse": 71,
+                "glucose": 76.2,
+                "comment": "Presi\u00f3n alta detectada (hipertensi\u00f3n)"
+            }
+        ]
+    },
+    "65748": {
+        "registros": [
+            {
+                "record_id": 1,
+                "ci": "123456",
+                "patient_name": "Erick Monta\u00f1o",
+                "timestamp": "2025-05-06 14:44:20",
+                "systolic": 172,
+                "diastolic": 101,
+                "pulse": 60,
+                "glucose": 176.5,
+                "comment": "Presi\u00f3n alta detectada (hipertensi\u00f3n) y Hiperglucemia detectada (posible diabetes)"
+            },
+            {
+                "record_id": 2,
+                "ci": "66666544",
+                "patient_name": "Michelle Hinojosa",
+                "timestamp": "2025-05-06 14:50:12",
+                "systolic": 111,
+                "diastolic": 65,
+                "pulse": 70,
+                "glucose": 179.8,
+                "comment": "Hiperglucemia detectada (posible diabetes)"
+            },
+            {
+                "record_id": 3,
+                "ci": "764583",
+                "patient_name": "Jose Mendoza",
+                "timestamp": "2025-05-06 14:53:57",
+                "systolic": 165,
+                "diastolic": 74,
+                "pulse": 96,
+                "glucose": 129.8,
+                "comment": "Presi\u00f3n alta detectada (hipertensi\u00f3n) y Hiperglucemia detectada (posible diabetes)"
+            },
+            {
+                "record_id": 4,
+                "ci": "765432",
+                "patient_name": "Jose Madero",
+                "timestamp": "2025-05-07 08:49:16",
+                "systolic": 119,
+                "diastolic": 104,
+                "pulse": 84,
+                "glucose": 154.2,
+                "comment": "Presi\u00f3n alta detectada (hipertensi\u00f3n) y Hiperglucemia detectada (posible diabetes)"
+            }
+        ]
+    }
+}
